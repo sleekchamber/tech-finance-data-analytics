@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-2f5bea?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-6c757d)
+![License](https://img.shields.io/badge/License-MIT-198754)
+![Status](https://img.shields.io/badge/Status-Active-198754)
+![GitHub stars](https://img.shields.io/github/stars/sleekchamber/tech-finance-data-analytics?style=social)
+
 # Tech & Finance Data Analytics (Python + SQL)
 This project analyzes revenue performance, customer behavior, financial risk indicators, and operational trends. The goal is to demonstrate end-to-end data analysis skills, from raw data cleaning to business insights and KPI reporting.
  
