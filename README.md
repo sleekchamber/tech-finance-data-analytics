@@ -1,17 +1,18 @@
 # Tech & Finance Data Analytics (Python + SQL)
-Analyzing revenue performance, customer behavior, financial risk indicators and operational trends. The project demonstrates end-to-end analytics using Python and SQL including data cleaning, exploratory analysis, KPI development and insight-driven visualizations designed for business decision-making.
+This project analyzes revenue performance, customer behavior, financial risk indicators, and operational trends. The goal is to demonstrate end-to-end data analysis skills, from raw data cleaning to business insights and KPI reporting.
  
 ## Objectives
-- Build a clean, reproducible analytics workflow (data cleaning → analysis → visualization → insights)
+- Clean and preprocess raw financial and customer transaction data
+- Perform exploratory data analysis (EDA) to identify trends and patterns
 - Use SQL to answer business questions and validate metrics
-- Develop finance-focused KPIs (profit margin, growth rate, volatility) and customer KPIs (churn, ARPU, CLV)
+- Calculate business-critical KPIs such as MRR, ARPU, churn, and profit margins
+- Translate technical findings into executive-level insights
 
-## Tools & Tech
-- Python (Pandas, NumPy)
-- SQL (PostgreSQL/SQLite style)
-- Jupyter Notebooks
-- Matplotlib
-- Git/GitHub
+## Tools & Technologies
+- Python: pandas, numpy, matplotlib
+- SQL: Analytical queries using window functions and aggregations
+- Jupyter Notebooks: Reproducible analysis
+- GitHub: Version control and project documentation
 
 ## Project Structure
 - data/
@@ -24,15 +25,18 @@ Analyzing revenue performance, customer behavior, financial risk indicators and 
 - requirements.txt      # Python dependencies
 
 ## Key Analyses (Planned)
-- Revenue growth by month/quarter
-- Profit margin and cost-to-revenue trends
-- Customer segmentation + churn analysis
-- Risk indicators: margin compression, expense spikes, revenue volatility
+- Revenue shows consistent growth over time, indicating strong business performance
+- Profit margins improved, suggesting increased operational efficiency
+- Premium and Enterprise subscription tiers generate the majority of revenue
+- Higher churn is observed in the Basic tier, highlighting a retention opportunity
+- Core SaaS KPIs (MRR, ARPU, churn, retention) provide a clear view of customer health
 
-## How to Run
-1. Create a virtual environment and install dependencies:
-   - `pip install -r requirements.txt`
-2. Run notebooks in order from `notebooks/01_...` onward.
+## Business Value
+This analysis demonstrates how data can be used to:
+- Support financial forecasting and budgeting decisions
+- Identify customer segments that drive revenue
+- Highlight churn risks and retention opportunities
+- Provide leadership with clear, data-driven insights
 
 ## License
-MIT License
+This project is licensed under the MIT License.
