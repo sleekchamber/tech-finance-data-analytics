@@ -14,14 +14,14 @@ Analyzing revenue performance, customer behavior, financial risk indicators and 
 - Git/GitHub
 
 ## Project Structure
-data/
-     raw/              # Original, unmodified datasets
-     processed/        # Cleaned and transformed datasets
-notebooks/            # Jupyter notebooks for analysis
-sql/                  # SQL queries for analytics
-visuals/              # Exported charts and dashboards
-insights/             # Business-facing summaries
-requirements.txt      # Python dependencies
+- data/
+    - raw/              # Original, unmodified datasets
+    - processed/        # Cleaned and transformed datasets
+- notebooks/            # Jupyter notebooks for analysis
+- sql/                  # SQL queries for analytics
+- visuals/              # Exported charts and dashboards
+- insights/             # Business-facing summaries
+- requirements.txt      # Python dependencies
 
 ## Key Analyses (Planned)
 - Revenue growth by month/quarter
