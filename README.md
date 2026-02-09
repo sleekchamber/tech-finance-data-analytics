@@ -1,4 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.x-2f5bea?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Used-blueviolet)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-6c757d)
 ![License](https://img.shields.io/badge/License-MIT-198754)
 ![Status](https://img.shields.io/badge/Status-Active-198754)
