@@ -14,31 +14,14 @@ Analyzing revenue performance, customer behavior, financial risk indicators and 
 - Git/GitHub
 
 ## Project Structure
-tech-finance-data-analytics/
-│
-├── data/
-│   ├── raw/              # Original, unmodified datasets
-│   └── processed/        # Cleaned and transformed datasets
-│
-├── notebooks/            # Jupyter notebooks for analysis
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   ├── 03_financial_metrics.ipynb
-│   └── 04_visualizations.ipynb
-│
-├── sql/                  # SQL queries for analytics
-│   ├── revenue_analysis.sql
-│   ├── customer_metrics.sql
-│   └── risk_indicators.sql
-│
-├── visuals/              # Exported charts and dashboards
-│
-├── insights/             # Business-facing summaries
-│   └── executive_summary.md
-│
-├── requirements.txt      # Python dependencies
-├── README.md             # Project overview
-└── LICENSE               # MIT License
+data/
+     raw/              # Original, unmodified datasets
+     processed/        # Cleaned and transformed datasets
+notebooks/            # Jupyter notebooks for analysis
+sql/                  # SQL queries for analytics
+visuals/              # Exported charts and dashboards
+insights/             # Business-facing summaries
+requirements.txt      # Python dependencies
 
 ## Key Analyses (Planned)
 - Revenue growth by month/quarter
