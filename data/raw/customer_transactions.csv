@@ -1,0 +1,11 @@
+customer_id,transaction_date,subscription_tier,amount,churned
+C001,2023-01-15,Basic,20,0
+C002,2023-01-20,Premium,50,0
+C003,2023-02-10,Basic,20,1
+C004,2023-02-18,Enterprise,120,0
+C005,2023-03-05,Premium,50,0
+C006,2023-03-22,Basic,20,1
+C007,2023-04-01,Premium,50,0
+C008,2023-04-15,Enterprise,120,0
+C009,2023-05-02,Basic,20,1
+C010,2023-05-20,Premium,50,0
